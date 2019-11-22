@@ -8,4 +8,4 @@ https://lhern103.github.io/LesleyHernandez-Resume/
 
 Lesley Hernandez Website
 
-![Description of Image] (img/screenshot.png)
+![Description of Image](img/screenshot.png)
